@@ -6,6 +6,7 @@ from pyparsing import alphas
 # plot
 # histograme
 # pie charts
+# area chart
 # box plots
 # spyder charts
 
